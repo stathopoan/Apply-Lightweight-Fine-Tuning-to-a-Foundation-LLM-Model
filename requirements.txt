@@ -1,0 +1,4 @@
+transformers ~= 4.38.0
+datasets ~= 2.17.1
+peft ~= 0.8.2
+notebook ~= 7.1.0
